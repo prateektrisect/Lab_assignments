@@ -1,1 +1,25 @@
 
+Test Case1:-
+Input:
+3
+Expected Output:
+#
+##
+###
+
+
+Test Case2:-
+Input:
+5
+Expected Output:
+#
+##
+###
+####
+#####
+
+
+
+
+
+
