@@ -1,1 +1,18 @@
+Test Case1:-
+Input:
+15
+Expected Output:
+Hello
 
+Test Case2:-
+Input:
+0
+Expected Output:
+Hello
+
+
+Test Case3:-
+Input:
+18
+Expected Output:
+Java
