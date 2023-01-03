@@ -1,1 +1,24 @@
 
+
+Test Case1:-
+Input:
+2
+Expected Output:
+START
+1
+2
+END
+Test Case2:-
+Input:
+3
+Expected Output:
+START
+1
+2
+3
+END
+
+
+
+
+
