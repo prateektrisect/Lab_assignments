@@ -1,1 +1,21 @@
+Test Case1:-
+Input:
+2
+Expected Output:
+#
+#
+2
+1
 
+Test Case2:-
+Input:
+4
+Expected Output:
+#
+#
+#
+#
+4
+3
+2
+1
