@@ -1,1 +1,22 @@
 
+Test Case1:-
+Input:
+2
+Expected Output:
+1
+12
+2
+21
+
+Test Case2:-
+Input:
+4
+Expected Output:
+1
+12
+123
+1234
+4
+43
+432
+4321
