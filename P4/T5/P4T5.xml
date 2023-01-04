@@ -2,12 +2,23 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>1 12 2 21</output>
+        <output>1 
+        12 
+        2 
+        21</output>
     </testcase>
     <testcase>
         <input>4</input>
-        <output>1 12 123 1234 4 43 432 4321</output>
+        <output>1 
+        12 
+        123 
+        1234 
+        4 
+        43 
+        432 
+        4321</output>
     </testcase>
 </testcases>
+
 
 
