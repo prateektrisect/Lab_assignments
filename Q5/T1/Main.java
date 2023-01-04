@@ -9,9 +9,9 @@ public class App{
    
     for(int i = 0; i < len; i++) { 
       
-      // Fill the new Array
+      // Assign value to the new Array
     }
-    for(int j=0;i<len;i++) {
+    for(int j=0;j<len;j++) {
       
       System.out.println( );  // each element is multiplied by 10
     }
