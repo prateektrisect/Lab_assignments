@@ -2,9 +2,14 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>2 21</output>
+        <output>2 
+        21</output>
     </testcase>
     <testcase>
         <input>5</input>
-        <output>5 54 543 5432 54321</output>
+        <output>5 
+        54 
+        543 
+        5432 
+        54321</output>
 </testcases>
