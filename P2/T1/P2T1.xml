@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>8</input>
+        <output>1</output>
+        <output>2</output>
+        <output>3</output>
+        <output>4</output>
+        <output>5</output>
+        <output>6/output>
+        <output>7</output>
+        <output>8</output>
+    </testcase>
+</testcases>
