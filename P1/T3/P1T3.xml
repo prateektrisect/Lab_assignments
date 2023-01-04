@@ -2,18 +2,14 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>1</output>
-        <output>2</output>
+        <output>1
+        2</output>
     </testcase>
     <testcase>
         <input>3</input>
-        <output>1</output>
-        <output>2</output>
-        <output>3</output>
+        <output>1
+        2
+        3</output>
     </testcase>
 </testcases>
-
-
-
-
 
