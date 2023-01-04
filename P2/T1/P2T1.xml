@@ -2,13 +2,13 @@
 <testcases>  
     <testcase>
         <input>8</input>
-        <output>1</output>
-        <output>2</output>
-        <output>3</output>
-        <output>4</output>
-        <output>5</output>
-        <output>6/output>
-        <output>7</output>
-        <output>8</output>
+        <output>1
+        2
+        3
+        4
+        5
+        6
+        7
+        8</output>
     </testcase>
 </testcases>
