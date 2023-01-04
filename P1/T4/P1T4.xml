@@ -2,15 +2,15 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>Prod-1=2</output>
-        <output>Prod-2=4</output>
-        <output>Prod-3=6</output>
-        <output>Prod-4=8</output>
-        <output>Prod-5=10</output>
-        <output>Prod-6=12</output>
-        <output>Prod-7=14</output>
-        <output>Prod-8=16</output>
-        <output>Prod-9=18</output>
-        <output>Prod-10=20</output>
+        <output>Prod-1=2
+        Prod-2=4
+        Prod-3=6
+        Prod-4=8
+        Prod-5=10
+        Prod-6=12
+        Prod-7=14
+        Prod-8=16
+        Prod-9=18
+        Prod-10=20</output>
     </testcase>
 </testcases>
