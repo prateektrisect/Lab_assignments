@@ -1,15 +1,4 @@
 
-Test Case1:-
-Input:
-14
-Expected Output:
-Institute
-
-Test Case2:-
-Input:
-17
-Expected Output:
-Trisect
 
 
 <?xml version="1.0" encoding="UTF-8"?>  
