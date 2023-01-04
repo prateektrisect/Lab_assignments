@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <testcases>  
     <testcase>
-        <input>code</input>
-        <output>codde</output>
+        <input>{4,12,17,21}</input>
+        <output>{4,24,17,42}</output>
     </testcase>
     <testcase>
-        <input>dad</input>
-        <output>ddadd</output>
+        <input>{1,5,9}</input>
+        <output>{1,5,18}</output>
     </testcase>
     <testcase>
-        <input>dd</input>
-        <output>dddd</output>
-    </testcase>
-    <testcase>
-        <input>trisect</input>
-        <output>trisect</output>
-    </testcase>
-    <testcase>
-        <input>Doodle</input>
-        <output>Dooddle</output>
+        <input>{2,5,7,13}</input>
+        <output>{2,5,7,13}</output>
     </testcase>
 </testcases>
 
