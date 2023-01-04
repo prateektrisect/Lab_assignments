@@ -5,7 +5,7 @@ public class Main{
   void solution() {
     // Write your code here
     // Remember the output should match exactly
-    // Reffrence P2 T6
+    // Reference P2 T6
     // Use For loop 
 
 
