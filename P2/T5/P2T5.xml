@@ -2,15 +2,15 @@
 <testcases>  
     <testcase>
         <input>5</input>
-        <output>5*1=5</output>
-        <output>5*2=10</output>
-        <output>5*3=15</output>
-        <output>5*4=20</output>
-        <output>5*5=25</output>
-        <output>5*6=30</output>
-        <output>5*7=35</output>
-        <output>5*8=40</output>
-        <output>5*9=45</output>
-        <output>5*10=50/output> 
+        <output>5*1=5
+        5*2=10
+        5*3=15
+        5*4=20
+        5*5=25
+        5*6=30
+        5*7=35
+        5*8=40
+        5*9=45
+        5*10=50</output> 
     </testcase>
 </testcases>
