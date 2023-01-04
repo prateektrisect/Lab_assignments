@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class Main{
 
-  void solution() {
+  void solution(int n) {
 
     // Here testing system will provide
     // values to variable n, you don't 
@@ -9,7 +11,7 @@ public class Main{
     String pattern="#";
     for(int i = 0; i <= n; i++) { 
       
-      // Use accumulator 
+      // apply accumulator pattern 
       
         System.out.println();  //print pattern here in format given
     }
@@ -21,6 +23,6 @@ public class Main{
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    test.solution();
+    test.solution(n);
   }
 }
