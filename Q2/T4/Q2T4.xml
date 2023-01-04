@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>car</input>
+        <output>
+          c
+          c#
+          c#r
+        </output>
+    </testcase>
+    <testcase>
+        <input>trisect</input>
+        <output>
+        t
+          t#
+          t#i
+          t#i#
+          t#i#e
+          t#i#e#
+          t#i#e#t
+        </output>
+    </testcase>
+</testcases>
