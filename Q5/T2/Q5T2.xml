@@ -3,18 +3,19 @@
     <testcase>
         <input>{179,256,9}</input>
         <output>
-          10
-          30
-          40
-          70
+          256
         </output>
     </testcase>
     <testcase>
-        <input>{10,5,9}</input>
+        <input>{919,999,979,899}}</input>
         <output>
-          100
-          50
-          90
+         999
+        </output>
+    </testcase>
+     <testcase>
+        <input>{0,8,1,5,3}</input>
+        <output>
+        8
         </output>
     </testcase>
 </testcases>
