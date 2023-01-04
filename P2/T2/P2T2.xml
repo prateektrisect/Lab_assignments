@@ -2,18 +2,18 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>START</output>
-        <output>1</output>
-        <output>2</output>
-        <output>END</output>
+        <output>START
+        1
+        2
+        END</output>
     </testcase>
     <testcase>
         <input>3</input>
-        <output>START</output>
-        <output>1</output>
-        <output>2</output>
-        <output>3</output>
-        <output>END</output>
+        <output>START
+        1
+        2
+        3
+        END</output>
     </testcase>
 </testcases>
 
