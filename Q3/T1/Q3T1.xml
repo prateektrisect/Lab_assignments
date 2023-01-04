@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>#global#</input>
+        <output>
+         New String=global
+        </output>
+    </testcase>
+    <testcase>
+        <input>#1#2#3</input>
+        <output>
+      New String=123
+        </output>
+    </testcase>
+  <testcase>
+        <input>####</input>
+        <output>
+      New String=
+        </output>
+    </testcase>
+  <testcase>
+        <input>#C#O#D#E#"</input>
+        <output>
+      New String=CODE
+        </output>
+    </testcase>
+  <testcase>
+        <input>*#@@#*</input>
+        <output>
+      New String=*@@*
+        </output>
+    </testcase>
+  
+</testcases>
 
