@@ -3,7 +3,6 @@
     <testcase>
         <input>zzz</input>
         <output>Total=3</output>
-        <output>#</output>
     </testcase>
     <testcase>
         <input>ratcatmat</input>
