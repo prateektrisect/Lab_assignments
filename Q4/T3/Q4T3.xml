@@ -1,1 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>TableTennis</input>
+        <output>TT</output>
+    </testcase>
+    <testcase>
+        <input>Raj-Sinha</input>
+        <output>R-S</output>
+    </testcase>
+    <testcase>
+        <input>Top#100</input>
+        <output>T#100</output>
+    </testcase>
+    <testcase>
+        <input>ALLCAPS</input>
+        <output>ALLCAPS</output>
+    </testcase>
+     <testcase>
+        <input>small</input>
+        <output></output>
+    </testcase>
+</testcases>
+
+
 
