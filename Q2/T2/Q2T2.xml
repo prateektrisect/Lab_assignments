@@ -1,1 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>car</input>
+        <output>
+          c:small
+          a:small
+          r:small
+        </output>
+    </testcase>
+    <testcase>
+        <input>TriSecT</input>
+        <output>
+          T:capital
+          r:small
+          i:small
+          S:capital
+          e:small
+          c:small
+          T:capital
+        </output>
+    </testcase>
+</testcases>
+
 
