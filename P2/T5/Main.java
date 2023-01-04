@@ -9,7 +9,7 @@ public class Main{
     // Write your code here
     // Complete the sample code provided below
     for(int i = 0; i <= n; i++) {            
-        System.out.println();  //print i here in format given
+        System.out.println();  //print here result in the given format
     }
   }
 
