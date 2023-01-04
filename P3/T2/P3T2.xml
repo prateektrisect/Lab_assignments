@@ -1,15 +1,14 @@
-
-Test Case1:-
-Input:
-5
-Expected Output:
-Coke-1
-Coke-2
-Pepsi-3
-Coke-4
-Coke-5
-
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>5</input>
+        <output>Coke-1</output>
+        <output>Coke-2</output>
+        <output>Pepsi-3</output>
+        <output>Coke-4</output>
+        <output>Coke-5</output>
+    </testcase>
+</testcases>
 
 
 
