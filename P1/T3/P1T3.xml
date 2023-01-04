@@ -1,18 +1,17 @@
+<testcases>  
+    <testcase>
+        <input>2</input>
+        <output>1</output>
+        <output>2</output>
+    </testcase>
+    <testcase>
+        <input>3</input>
+        <output>1</output>
+        <output>2</output>
+        <output>3</output>
+    </testcase>
+</testcases>
 
-Test Case1:-
-Input:
-2
-Expected Output:
-1
-2
-
-Test Case2:-
-Input:
-3
-Expected Output:
-1
-2
-3
 
 
 
