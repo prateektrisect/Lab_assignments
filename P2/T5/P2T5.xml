@@ -1,12 +1,16 @@
-
-Expected Output:
-5X1=5
-5X2=10
-5X3=15
-5X4=20
-5X5=25
-5X6=30
-5X7=35
-5X8=40
-5X9=45
-5X10=50
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>5</input>
+        <output>5*1=5</output>
+        <output>5*2=10</output>
+        <output>5*3=15</output>
+        <output>5*4=20</output>
+        <output>5*5=25</output>
+        <output>5*6=30</output>
+        <output>5*7=35</output>
+        <output>5*8=40</output>
+        <output>5*9=45</output>
+        <output>5*10=50/output> 
+    </testcase>
+</testcases>
