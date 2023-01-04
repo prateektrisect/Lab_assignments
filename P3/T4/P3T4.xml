@@ -2,22 +2,22 @@
 <testcases>  
     <testcase>
         <input>2</input>
-        <output>#</output>
-        <output>#</output>
-        <output>2</output>
-        <output>1</output>
+        <output>#
+        #
+        2
+        1</output>
     </testcase>
     <testcase>
         <input>5</input>
-        <output>#</output>
-        <output>#</output>
-        <output>#</output>
-        <output>#</output>
-        <output>#</output>
-        <output>5/output>
-        <output>4/output>
-        <output>3</output>
-        <output>2</output>
-        <output>1<output>  
+        <output>#
+        #
+        #
+        #
+        #
+        5
+        4
+        3
+        2
+        1<output>  
     </testcase>
 </testcases>
