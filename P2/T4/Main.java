@@ -1,13 +1,15 @@
-import java.io.*;
+import java.util.Scanner;
 
 public class Main{
 
-  void solution() {
-    // Write your code here
+  void solution(int n) {
     // Remember the output should match exactly
+    // Write your code here
+   
     // Use For loop to get 1 to n
-    // Use accumulator inside loop given below
-    // Use Example(sum=sum*i)
+    // Use accumulator pattern inside the loop 
+    // print the result outside for loop
+    
 
 
   }
@@ -17,6 +19,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int x = sc.nextInt();
+    test.solution(x);
   }
 }
