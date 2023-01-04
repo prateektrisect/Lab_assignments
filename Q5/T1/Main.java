@@ -4,10 +4,16 @@ public class App{
   void solution(int[] array) {
       
       int len=array.length;
+      int[] array = new int[len]; 
 
    
-    for(int i = 0; i < len; i++) {            
-        System.out.println( );  // print the desire output.
+    for(int i = 0; i < len; i++) { 
+      
+      // Fill the new Array
+    }
+    for(int j=0;i<len;i++) {
+      
+      System.out.println( );  // each element is multiplied by 10
     }
   }
 
