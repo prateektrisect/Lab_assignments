@@ -1,1 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>n = 2, m = 12</input>
+        <output>
+           8
+        </output>
+    </testcase>
+  <testcase>
+        <input>n = 9, m = 1 </input>
+        <output>
+           81
+        </output>
+    </testcase>
+   <testcase>
+        <input>n = 3, m = 0</input>
+        <output>
+           27
+        </output>
+    </testcase>
+</testcases>
 
