@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>Trisect</input>
+        <output>
+              Uppers#1
+              Lower#6
+              Digit#0
+        </output>
+    </testcase>
+    <testcase>
+        <input>NEWS360</input>
+        <output>
+               Uppers#4
+               Lower#0
+               Digit#3
+          </output>  
+    </testcase>
+</testcases>
