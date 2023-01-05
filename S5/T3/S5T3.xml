@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>"hello", 0</input>
+        <output>
+           #e#l#
+        </output>
+    </testcase>
+  <testcase>
+        <input>"trisect", 1</input>
+        <output>
+          t#i#e#t
+        </output>
+    </testcase>
+</testcases>
