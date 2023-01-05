@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{10,9,12,5,7} </input>
+        <output>
+            10:even
+             9:odd
+            12:even
+             5:odd
+             7:odd
+        </output>
+    </testcase>
+</testcases>
 
