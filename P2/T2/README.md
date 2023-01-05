@@ -1,13 +1,56 @@
-In this Task, Given n as input. Print 1 to n on screen using a For loop. Print START before applying the loop and END after the completion of the loop.
+## Problem Statement
+Given n as input. Print 1 to n in the specific format on the screen using for loop.
 
+**Sample Test Case**
+```
+Input:
+2
 
-INPUT FORMAT:
-An integer number n.
-
-OUTPUT FORMAT:
+Output:
 Start
 1
 2
-...
-n
 End
+```
+
+## Other Test cases
+**Test Case 1**
+```
+Input:
+3
+
+Output:
+Start
+1
+2
+3
+End
+
+```
+**Test Case 2**
+```
+Input:
+5
+
+Output:
+Start
+1
+2
+3
+4
+5
+End
+```
+---
+## How to attempt?
+For the given task the solution is already provided. Refer the steps below to execute your second code.
+
+For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
+
+### Steps to Run your second code
+1. Copy the source code from [Source Code Link](https://raw.githubusercontent.com/Aartiarora22/Lab_assignments/main/P2/T2/Main.java)
+2. Paste in the editor window on the right
+3. Refer the solution code given below and make necessary changes to your code
+4. Hit **Submit** button
+5. If you followed the steps then your code will pass test cases.
+
