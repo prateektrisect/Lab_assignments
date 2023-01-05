@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>ab34</input>
+        <output>
+             xyy##
+        </output>
+    </testcase>
+    <testcase>
+        <input>Bad</input>
+        <output>
+               #x#
+          </output>  
+    </testcase>
+  <testcase>
+        <input>bAt$5</input>
+        <output>
+               yy####
+          </output>  
+    </testcase>
+</testcases>
