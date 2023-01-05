@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>n = 2</input>
+        <output>
+          2
+          21 
+        </output>
+    </testcase>
+    <testcase>
+        <input>n = 5</input>
+        <output>
+             5
+             54
+             543
+             5432
+             54321
+          </output>  
+    </testcase>
+</testcases>
 
