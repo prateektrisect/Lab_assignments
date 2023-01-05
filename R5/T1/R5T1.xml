@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>n = 2</input>
+        <output>
+            1
+            121
+        </output>
+    </testcase>
+    <testcase>
+        <input>n = 4</input>
+        <output>
+             1
+             121
+             12321
+             1234321
+          </output>  
+    </testcase>
+</testcases>
