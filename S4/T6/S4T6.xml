@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>Java</input>
+        <output>
+             va#Java#Ja
+        </output>
+    </testcase>
+  <testcase>
+        <input>coding</input>
+        <output>
+             ing#coding#cod
+        </output>
+    </testcase>
+  <testcase>
+        <input>tool</input>
+        <output>
+             ol#tool#to
+        </output>
+    </testcase>
+</testcases>
