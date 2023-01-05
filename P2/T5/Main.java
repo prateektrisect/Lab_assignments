@@ -7,9 +7,7 @@ public class Main{
     // need to assign any values to them
     
     // Write your code here
-    // Complete the sample code provided below
-    for(int i = 0; i <= n; i++) {            
-        System.out.println();  //print here result in the given format
+   
     }
   }
 
