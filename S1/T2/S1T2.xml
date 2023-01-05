@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>11 17 23</input>
+        <output>
+              121
+              289
+              529
+        </output>
+    </testcase>
+</testcases>
 
