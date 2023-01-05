@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{1,7,8,9,2}</input>
+        <output>
+               Size=3
+               1#7#9#
+        </output>
+    </testcase>
+    <testcase>
+        <input>{2,4}</input>
+        <output>
+                Size=0
+          </output>  
+    </testcase>
+</testcases>
