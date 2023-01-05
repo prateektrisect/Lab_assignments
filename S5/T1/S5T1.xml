@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>Trisect</input>
+        <output>
+             Lowercase=6
+        </output>
+    </testcase>
+  <testcase>
+        <input>HELLO</input>
+        <output>
+            Lowercase=0
+        </output>
+    </testcase>
+  <testcase>
+        <input>Za</input>
+        <output>
+            Lowercase=1
+        </output>
+    </testcase>
+</testcases>
