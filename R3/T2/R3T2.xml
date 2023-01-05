@@ -1,1 +1,25 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>hello</input>
+        <output>
+             o#
+             ol##
+             oll###
+             olle####
+             olleh#####
+        </output>
+    </testcase>
+    <testcase>
+        <input>trisect</input>
+        <output>
+              t#
+              tc##
+              tce###
+              tces####
+              tcesi#####
+              tcesir######
+              tcesirt#######
+          </output>  
+    </testcase>
+</testcases>
