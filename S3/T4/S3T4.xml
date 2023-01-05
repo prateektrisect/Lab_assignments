@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{5,13,15,20,36}</input>
+        <output>
+           5:PaperBoat
+          13:PaperBoat
+          15:Coke
+          20:Pepsi
+          36:PepsiCoke
+        </output>
+    </testcase>
+</testcases>
 
