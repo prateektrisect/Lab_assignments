@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{"TEST", "car", "AbaCus"}</input>
+        <output>
+           In Range=0
+           In Range=2
+           In Range=4
+        </output>
+    </testcase>
+</testcases>
