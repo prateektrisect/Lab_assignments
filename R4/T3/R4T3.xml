@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>who</input>
+        <output>
+            who#ohw
+        </output>
+    </testcase>
+    <testcase>
+        <input>code</input>
+        <output>
+              code#edoc
+          </output>  
+    </testcase>
+</testcases>
