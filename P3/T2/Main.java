@@ -3,12 +3,9 @@ import java.io.*;
 public class Main{
 
   void solution() {
-    // Write your code here
     // Remember the output should match exactly
     // Use for loop
-    // Starting from 1 till n print 'Pepsi' if the number is divisible by 3 
-    // else coke if the number is not divisible by 3.
-
+    // Write your code here
 
   }
 
