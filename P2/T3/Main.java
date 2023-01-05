@@ -5,7 +5,6 @@ public class Main{
   void solution(int x) {
     // Write your code here
     // Remember the output should match exactly
-    // Reffer P1 T4 
     // Misplaced character, extra spaces, 
     // missing character, letters not in exact case will
     // will fail the test
