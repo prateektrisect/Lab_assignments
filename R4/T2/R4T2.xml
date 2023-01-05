@@ -1,1 +1,27 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>Top20</input>
+        <output>
+            TTop##
+        </output>
+    </testcase>
+    <testcase>
+        <input>car</input>
+        <output>
+               car
+          </output>  
+    </testcase>
+  <testcase>
+        <input>HellO</input>
+        <output>
+              HHellOO
+          </output>  
+    </testcase>
+  <testcase>
+        <input>1GOAL9</input>
+        <output>
+              #GGOOAALL#
+          </output>  
+    </testcase>
+</testcases>
