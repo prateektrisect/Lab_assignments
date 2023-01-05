@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{3,5,8}</input>
+        <output>
+             4thPower-3=81
+             5thPower-3=243
+             4thPower-5=625
+             5thPower-5=3125
+             4thPower-8=4096
+             5thPower-8=32768
+        </output>
+    </testcase>
+</testcases>
 
