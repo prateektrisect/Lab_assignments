@@ -21,7 +21,18 @@ Output:
 2
 3
 ```
+**Test Case 2**
+```
+Input:
+5
 
+Output:
+1
+2
+3
+4
+5
+```
 
 ## How to attempt?
 For the given task the solution is already provided. Refer the steps below to execute your second code.
