@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<testcases>  
+    <testcase>
+        <input>{21,4,12,32,33}</input>
+        <output>
+            21:Yes
+             4:No
+            12:Yes
+            32:No
+            33:Yes
+        </output>
+    </testcase>
+</testcases>
 
