@@ -2,12 +2,7 @@ import java.util.Scanner;
 public class App{
 
   void solution(int[] array) {
-
-
-        // print the desire output. 
-        // Use For loop with if else to get desire number.
-        // print length of new array
-        
+    //  write your code here
 
     }
   }
