@@ -7,7 +7,7 @@ public class App{
 
         // print the desire output. 
         // Use For loop with if else to get desire number.
-        // constraints  n<=100 and n>=200. 
+     
         
 
     }
