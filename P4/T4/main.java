@@ -1,12 +1,11 @@
-import java.io.*;
+import java.util.Scanner;
 
 public class Main{
 
-  void solution() {
+  void solution(int n) {
     // Write your code here
     // Remember the output should match exactly
-    // Use for loop
-    // Run the loop Backword and use accumulator to achive pattern
+    // Use for loop in reverse order and use accumulator to achive pattern
 
 
   }
@@ -16,6 +15,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int num = sc.nextInt();
+    test.solution(num);
   }
 }
