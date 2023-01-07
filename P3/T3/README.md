@@ -34,7 +34,7 @@ For the given task the solution is already provided. Refer the steps below to ex
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
 
 ### Steps to Run your second code
-1. Copy the source code from [Source Code Link]()
+1. Copy the source code from [Source Code Link](https://raw.githubusercontent.com/Aartiarora22/Lab_assignments/main/P3/T3/Main.java)
 2. Paste in the editor window on the right
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
@@ -43,7 +43,7 @@ For the given problem the system will provide user inputs directly. You don't ne
 ### Solution / Hint
 ```
 1. Take new empty string.
-2. Make accumulator pattern by adding-> "#" + multiple of n(from 2 to n+1). 
+2. Make an accumulator pattern by adding-> "#" + multiple of n(from 2 to n+1). 
 ```
 
 
