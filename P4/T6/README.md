@@ -1,5 +1,5 @@
 ## Problem Statement
-Given x and y as input. Print all the powers of x from 1 to y i.e. x^1 * x^2 * x^3 * x^4... x^n.
+Given x and y as input. Print all the powers of x from 1 to y i.e. x^1 * x^2 * x^3 * x^4... x^y.
 
 **Sample Test Case**
 ```
@@ -35,6 +35,7 @@ For the given problem the system will provide user inputs directly. You don't ne
 
 ## Solution / Hint
 1. Make a new string to create a pattern.
-2. Inside for loop use the value of x, apply accumulator pattern to get calculation in the output pattern.
-3. Apply accumulator pattern on final string and combine the calculation with "#" pattern for each value of loop.
+2. Start a for loop from 1 to y.
+3. Inside for loop use the value of x, apply accumulator pattern to get calculation in the output pattern.
+4. Apply accumulator pattern on final string and combine the calculation with "#" pattern for each value of loop.
 
