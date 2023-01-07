@@ -1,4 +1,4 @@
-# Pattern Problem
+## Problem Statement
 Given n integers as input. Print the pattern. 
 
 **Sample Test Case**
