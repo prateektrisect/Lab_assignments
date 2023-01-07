@@ -1,13 +1,10 @@
+import java.util.Scanner;
 public class Main{
 
-  void solution() {
-    // Write your code here
+  void solution(int n) {
     // Remember the output should match exactly
     // Use if else
-    // Print following:
-    // 'Hello' if n is divisible by 5
-    // else 'Java' otherwise
-
+    // Write your code here
   }
 
   //Test code
@@ -15,6 +12,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int n = sc.nextInt();
+    test.solution(n);
   }
 }
