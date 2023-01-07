@@ -31,7 +31,6 @@ YXY
 
 ```
 
-
 ## How to attempt?
 For the given task the solution is already provided. Refer the steps below to execute your second code.
 
