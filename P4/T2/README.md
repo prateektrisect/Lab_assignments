@@ -20,7 +20,7 @@ Input:
 
 Output:
 YXYXY
-
+```
 **Test Case 2**
 ```
 Input:
