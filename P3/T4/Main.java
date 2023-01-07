@@ -1,12 +1,10 @@
-import java.io.*;
+import java.util.Scanner;
 
 public class Main{
 
   void solution() {
     // Write your code here
     // Remember the output should match exactly
-    // Use Two For loop
-    // 1st for pattern and Second for num
 
   }
 
@@ -15,6 +13,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int n = sc.nextInt();
+    test.solution(n);
   }
 }
