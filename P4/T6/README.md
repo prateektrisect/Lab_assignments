@@ -1,5 +1,5 @@
 ## Problem Statement
-Given x and y as input. Print all the powers of x from 1 to y i.e. x1x2x3x4... xn.
+Given x and y as input. Print all the powers of x from 1 to y i.e. x^1 * x^2 * x^3 * x^4... x^n.
 
 **Sample Test Case**
 ```
