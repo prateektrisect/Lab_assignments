@@ -1,11 +1,11 @@
-import java.io.*;
+import java.util.Scanner;
 
 public class Main{
 
-  void solution() {
+  void solution(int n) {
     // Write your code here
     // Remember the output should match exactly
-    // Use 2 for loop to achive pattern  
+    // Use 2 for loop 
     // 1st for ascending order and 2nd for descending order
 
 
@@ -16,7 +16,8 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int num = sc.nextInt();
+    test.solution(num);
   }
 }
 
