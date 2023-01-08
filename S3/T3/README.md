@@ -32,7 +32,7 @@ Output:
 Coke
 ```
 
-**Test Case 2**
+**Test Case 3**
 ```
 Input:
 24
