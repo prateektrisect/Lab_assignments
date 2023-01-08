@@ -1,6 +1,7 @@
 # Print 1 to 8 numbers
 
 Write a code to print 1 to 8 numbers on the screen using for loop.
+
 **Sample Test Case**
 ```
 Input:
