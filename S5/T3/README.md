@@ -7,7 +7,7 @@ Create a function named encode that takes an integer n and a string as input. If
 **Sample Test Case**
 ```
 Input:
-hello", 0
+"hello", 0
 
 Output:
 #e#l#
