@@ -33,3 +33,8 @@ For the given problem the system will provide user inputs directly. You don't ne
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
 
+## Solution /Hint
+1. Take two integer variable to store counting of x and y.
+2. Apply for loop on the given string.
+3. Apply two if conditions, one to check x and other to check y character.
+
