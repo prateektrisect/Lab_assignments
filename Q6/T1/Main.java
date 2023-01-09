@@ -1,16 +1,20 @@
 import java.util.Scanner;
-public class App{
+public class Main{
 
   void solution(int[] array) {
       
-    // Use For loop to get every element 
-    // Use if else 
+    // Write code here
+   
+    
+//     print new array here
+        System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
+   
   }
 
   //Test code
   //Don't change anything below this line
   public static void main(String[] args){
-    App test = new App();
+    Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     int[] array = new int[n]; 
