@@ -1,8 +1,8 @@
-import java.io.*;
+import java.util.Scanner;;
 
 public class Main{
 
-  void solution() {
+  void solution(String str1) {
     // Write your code here
     // Remember the output should match exactly
     // Use if else with For loop
@@ -16,6 +16,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    String st = sc.nextInt();
+    test.solution(st);
   }
 }
