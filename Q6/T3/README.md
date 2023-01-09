@@ -14,7 +14,7 @@ Output:
 **Test Case 1**
 ```
 Input:
-{440,891,379,711}
+440 891 379 711
 
 Output:
 379
@@ -22,19 +22,14 @@ Output:
 **Test Case 2**
 ```
 Input:
-{269,301}
+269 301
 
 Output:
 269
 ```
 
 ## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
-
-For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
-
-## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
+Refer the steps below to execute your code.
 
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
 
