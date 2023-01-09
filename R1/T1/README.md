@@ -1,6 +1,5 @@
 ## Problem Statement
-Given an array of numbers as input. Print all those numbers from this array that 
-are multiples of 4 and fall in the range of 100 to 200 [inclusive].
+Given an array of numbers as input. Print all those numbers from this array that are multiples of 4 and fall in the range of 100 to 200 [inclusive].
 
 **Sample Test Case**
 ```
@@ -16,7 +15,7 @@ Output:
 **Test Case 1**
 ```
 Input:
-{4,100,150,176,102,204}
+4 100 150 176 102 204
 
 Output:
 100
@@ -25,13 +24,12 @@ Output:
 **Test Case 2**
 ```
 Input:
-{4,8,12} 
+4 8 12
 
 Output:
--
+
 ```
 
 ## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
-
+Refer the steps below to execute your code.
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
