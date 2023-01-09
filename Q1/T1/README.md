@@ -44,4 +44,5 @@ For the given problem the system will provide user inputs directly. You don't ne
 1. Take count as a variable to count the character of z in given string.
 2. Use if condition to check each character is equals to z.
 3. If true, it will count.
+4. Print value of count outside the loop.
 
