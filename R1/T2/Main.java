@@ -3,6 +3,8 @@ public class App{
 
   void solution(int[] array) {
     //  write your code here
+    
+     System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
 
     }
   }
