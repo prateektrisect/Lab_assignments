@@ -28,9 +28,22 @@ Output:
 90
 ```
 
-## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
+**Test Case 2**
+```
+Input:
+{1,5,8,4,7,11}
 
+
+Output:
+10
+50
+80
+40
+70
+110
+```
+
+## How to attempt?
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
 
 ### Steps to Run your second code
