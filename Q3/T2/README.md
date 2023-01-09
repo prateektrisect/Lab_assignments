@@ -45,7 +45,7 @@ actoc
 
 
 ## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
+Refer the steps below to execute your second code.
 
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
 
