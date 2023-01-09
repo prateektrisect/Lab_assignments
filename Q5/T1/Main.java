@@ -10,14 +10,12 @@ public class Main{
       // Write code here
       // access element from given array
       // each element is multiplied by 10
-      // Assign value to the new Array
+      // Insert value to the new Array
       
       
     }
-    for(int j = 0; j < len; j++) {
-      
-      System.out.println(); // print elements of new array 
-    }
+    System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
+   
   }
 
   //Test code
