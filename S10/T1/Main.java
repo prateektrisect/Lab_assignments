@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 public class Main{
 
-  void solution(int[] array, int [] aaray) {
+  void solution(int[] array, int [] aaray1) {
       
     // Write code here
    
