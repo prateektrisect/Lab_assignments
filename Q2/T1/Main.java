@@ -16,6 +16,7 @@ public class Main{
       {
         int count=count+1;
       System.out.println(ch+"#"+count);
+      System.ount.println(ch+"#"+count);
       }
       
 
