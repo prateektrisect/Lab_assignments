@@ -7,9 +7,6 @@ public class Main{
     // Write code here
    
     
-//     print new array here
-        System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
-   
   }
 
   //Test code
