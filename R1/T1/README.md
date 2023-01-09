@@ -15,7 +15,7 @@ Output:
 **Test Case 1**
 ```
 Input:
-4 100 150 176 102 204
+{4,100,150,176,102,204}
 
 Output:
 100
@@ -24,7 +24,7 @@ Output:
 **Test Case 2**
 ```
 Input:
-4 8 12
+{4,8,12}
 
 Output:
 
@@ -33,3 +33,12 @@ Output:
 ## How to attempt?
 Refer the steps below to execute your code.
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
+
+### Steps to Run your code
+
+1. Copy the source code from [Source Code Link](https://raw.githubusercontent.com/Aartiarora22/Lab_assignments/main/R1/T1/Main.java)
+2. Paste in the editor window on the right.
+3. Refer the solution code given below and make necessary changes to your code
+4. Hit **Submit** button.
+
+### View All Hidden Test Cases: Click Here
