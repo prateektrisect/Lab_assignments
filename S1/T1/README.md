@@ -3,6 +3,13 @@ Write the following code on screen then hit RUN button.
 Problem = Write a function named square that takes an integer n as input. It then prints the 
 square of n. Use this function to print the square of 13
 
+```
+def square(n):
+    squareN=n*n
+    print(squareN)
+square(13)
+```
+
 
 
 ## How to attempt?
