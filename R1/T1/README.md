@@ -4,7 +4,8 @@ Given an array of numbers as input. Print all those numbers from this array that
 **Sample Test Case**
 ```
 Input:
-{237,199,200,196,104}
+5
+237 199 200 196 104
 
 Output:
 200
@@ -15,7 +16,8 @@ Output:
 **Test Case 1**
 ```
 Input:
-{4,100,150,176,102,204}
+6
+4 100 150 176 102 204
 
 Output:
 100
@@ -24,7 +26,8 @@ Output:
 **Test Case 2**
 ```
 Input:
-{4,8,12}
+3
+4 8 12
 
 Output:
 
