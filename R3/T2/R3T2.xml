@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <testcases>  
     <testcase>
-        <input>hello</input>
+        <input>"hello"</input>
         <output>
              o#
              ol##
@@ -11,7 +11,7 @@
         </output>
     </testcase>
     <testcase>
-        <input>trisect</input>
+        <input>"trisect"</input>
         <output>
               t#
               tc##
@@ -23,3 +23,11 @@
           </output>  
     </testcase>
 </testcases>
+        <input>"tina"</input>
+        <output>
+             t#
+             ti##
+             tin###
+             tina####
+</output>
+       
