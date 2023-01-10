@@ -7,21 +7,31 @@ Print this new array as well as its size.
 **Sample Test Case**
 ```
 Input:
-{10,0,3,4,5} 
+10 0 3 4 5 
 
 Output:
 Size=3
-99,3,4
+99 3 4
 ```
 ## Other Test cases
 **Test Case 1**
 ```
 Input:
-{0,45,24,98,0,100,110}
+0 45 24 98 0 100 110
 
 Output:
 Size=4
-99,24,98,99
+99 24 98 99
+
+```
+**Test Case 2**
+```
+Input:
+50 60 0 2 8
+
+Output:
+Size=3
+99 2 8
 
 ```
 
@@ -37,3 +47,5 @@ For the given problem the system will provide user inputs directly. You don't ne
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
+
+### View All Hidden Test Cases: Click Here
