@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <testcases>  
     <testcase>
-        <input>"hello", 'l'</input>
-        <output>
-             "heoll"
-        </output>
+        <input>"hello" 'l'</input>
+        <output>"heoll"</output>
     </testcase>
   <testcase>
-        <input>"trisect", 't'</input>
-        <output>
-             "risectt"
-        </output>
+        <input>"trisect" 't'</input>
+        <output>"risectt"</output>
     </testcase>
 </testcases>
