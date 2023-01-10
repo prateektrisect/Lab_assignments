@@ -2,14 +2,10 @@
 <testcases>  
     <testcase>
         <input>{1,5}, {9,7}</input>
-        <output>
-              10
-        </output>
+        <output>10</output>
     </testcase>
     <testcase>
         <input>{10}, {11,3,16}</input>
-        <output>
-            19
-          </output>  
+        <output>19</output>  
     </testcase>
 </testcases>
