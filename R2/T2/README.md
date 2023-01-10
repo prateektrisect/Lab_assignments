@@ -5,7 +5,8 @@ Print this new array as well as its size.
 **Sample Test Case**
 ```
 Input:
-{1,7,8,9,2}
+5
+1 7 8 9 2
 
 Output:
 Size=3
@@ -15,7 +16,8 @@ Size=3
 **Test Case 1**
 ```
 Input:
-{2,4}
+2
+2 4
 
 Output:
 Size=0
@@ -24,7 +26,8 @@ Size=0
 **Test Case 2**
 ```
 Input:
-{29,44, 32,11}
+4
+29 44 32 11
 
 Output:
 Size=2
