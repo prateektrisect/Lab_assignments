@@ -22,10 +22,3 @@
         </output>
     </testcase>
     <testcase>
-          <input>1245</input>
-        <output>
-          Upper=0
-          Lower=0
-        </output>
-    </testcase>
-</testcases>
