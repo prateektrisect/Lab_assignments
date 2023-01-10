@@ -2,27 +2,21 @@
 <testcases>
     <testcase>
         <input>n = 3</input>
-        <output>
-            1
-            121
-            12321
-        </output>
+        <output>1
+                121
+                12321</output>
     </testcase>
     
     <testcase>
         <input>n = 4</input>
-        <output>
-             1
-             121
-             12321
-             1234321
-          </output>  
+        <output>1
+                121
+                12321
+                1234321</output>  
     </testcase>
     <testcase>
         <input>n = 2</input>
-        <output>
-            1
-            121
-        </output>
+        <output>1
+                121</output>
     </testcase>
 </testcases>
