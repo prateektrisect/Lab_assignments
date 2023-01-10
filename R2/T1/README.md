@@ -5,7 +5,8 @@ from this array.
 **Sample Test Case**
 ```
 Input:
-{1,5,9,7}
+4
+1 5 9 7
 
 Output:
 10
@@ -14,7 +15,8 @@ Output:
 **Test Case 1**
 ```
 Input:
-{10,11,3,16} 
+4
+10 11 3 16 
 
 Output:
 19
@@ -22,7 +24,8 @@ Output:
 **Test Case 2**
 ```
 Input:
-{1,11,30,106} 
+4
+1 11 30 106 
 
 Output:
 107
