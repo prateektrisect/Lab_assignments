@@ -22,10 +22,4 @@
         </output>
     </testcase>
   <testcase>
-        <input>Hello</input>
-        <output>
-         Digits-3=0
-         Alphabets-5
-        </output>
-    </testcase>
-</testcases>
+        
