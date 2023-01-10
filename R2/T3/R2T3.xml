@@ -8,7 +8,7 @@
         </output>
     </testcase>
     <testcase>
-        <input>{1,5,15,18,26,72,75,81}</input>
+        <input>1 5 15 18 26 72 75 81</input>
         <output>
                 15
                 75
@@ -16,7 +16,7 @@
           </output>  
     </testcase>
   <testcase>
-        <input>{4,8,12}</input>
+        <input>4 8 12</input>
         <output>
                
           </output>  
