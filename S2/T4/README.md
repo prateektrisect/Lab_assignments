@@ -25,7 +25,7 @@ Input:
 ironman
 
 Output:
-#i#r#o#n#m#a#n#ironman
+#n#a#m#n#o#r#i#ironman
 ```
 
 
