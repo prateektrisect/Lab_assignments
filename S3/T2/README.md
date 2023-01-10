@@ -5,7 +5,7 @@ even/odd for each element in the array.
 **Sample Test Case**
 ```
 Input:
-{10,9,12,5,7} 
+10 9 12 5 7 
 
 Output:
 10:even
@@ -18,7 +18,7 @@ Output:
 **Test Case 1**
 ```
 Input:
-{11,15,16,17,20}
+11 15 16 17 20
 
 Output:
 11:odd
@@ -30,7 +30,7 @@ Output:
 **Test Case 2**
 ```
 Input:
-{9,55,66,77,88}
+9 55 66 77 88
 
 Output:
 9:odd
