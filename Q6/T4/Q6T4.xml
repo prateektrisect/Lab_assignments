@@ -10,6 +10,11 @@
         <output>Below3=0
       Above3=30</output>
     </testcase>
+    <testcase>
+        <input>{3 3 3}</input>
+        <output>Below3=0
+      Above3=0</output>
+    </testcase>
    <testcase>
         <input>{1,2,1}</input>
         <output>Below3=4
