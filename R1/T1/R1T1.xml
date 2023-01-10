@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <testcases>  
     <testcase>
-        <input>{237,199,200,196,104}</input>
+        <input>237 199 200 196 104</input>
         <output>
                 200
                 196
@@ -9,14 +9,14 @@
         </output>
     </testcase>
     <testcase>
-        <input>{4,100,150,176,102,204}</input>
+        <input>4 100 150 176 102 204</input>
         <output>
                 100
                 176
           </output>  
     </testcase>
           <testcase>
-        <input>{4,8,12}</input>
+        <input>4 8 12</input>
         <output>
                 
           </output>  
