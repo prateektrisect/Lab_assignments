@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <testcases>  
     <testcase>
-        <input>{1,0,0,22} </input>
+        <input>1 0 0 22 </input>
         <output>
                 New array size:2
                          1
@@ -9,7 +9,7 @@
         </output>
     </testcase>
     <testcase>
-        <input>{2,5}</input>
+        <input>2 5</input>
         <output>
                 New array size:2
                              2
@@ -17,7 +17,7 @@
           </output>  
     </testcase>
      <testcase>
-        <input>{12,10,100,0,19,0}</input>
+        <input>12 10 100 0 19 0</input>
         <output>
                 New array size:4
                         12
@@ -27,7 +27,7 @@
           </output>  
     </testcase>
   <testcase>
-        <input>{0,0,0}</input>
+        <input>0 0 0</input>
         <output>
                 New array size:0
           </output>  
