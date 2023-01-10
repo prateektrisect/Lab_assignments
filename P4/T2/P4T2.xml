@@ -7,5 +7,7 @@
     <testcase>
         <input>5</input>
         <output>YXYXY</output>
+        <input>3</input>
+        <output>YXY</output>
     </testcase>
 </testcases>
