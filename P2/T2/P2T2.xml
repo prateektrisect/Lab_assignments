@@ -15,6 +15,16 @@
         3
         END</output>
     </testcase>
+    <testcase>
+        <input>5</input>
+        <output>START
+        1
+        2
+        3
+        4
+        5
+        END</output>
+    </testcase>
 </testcases>
 
 
