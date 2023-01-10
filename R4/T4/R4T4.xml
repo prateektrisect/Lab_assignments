@@ -2,27 +2,21 @@
 <testcases>  
     <testcase>
         <input>java</input>
-        <output>
-            *j
-            **a
-            ***v
-            ****a
-        </output>
+        <output>*j
+                **a
+                ***v
+                ****a</output>
     </testcase>
     <testcase>
         <input>89</input>
-        <output>
-              *8
-              **9
-          </output>  
+        <output>*8
+                **9</output>  
     </testcase>
       <testcase>
         <input>car</input>
-        <output>
-              *c
-              **a
-               ***r
-          </output>  
+        <output>*c
+                **a
+                 ***r</output>  
     </testcase>
 </testcases>
 
