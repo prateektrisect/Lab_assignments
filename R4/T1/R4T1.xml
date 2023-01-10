@@ -2,28 +2,22 @@
 <testcases>
      <testcase>
         <input>n = 3</input>
-        <output>
-          3
-          32
-          321
-        </output>
+        <output>3
+                32
+                321</output>
     </testcase>
     <testcase>
         <input>n = 2</input>
-        <output>
-          2
-          21 
-        </output>
+        <output>2
+                21 </output>
     </testcase>
     <testcase>
         <input>n = 5</input>
-        <output>
-             5
-             54
-             543
-             5432
-             54321
-          </output>  
+        <output>5
+                54
+                543
+                5432
+                54321</output>  
     </testcase>
 </testcases>
 
