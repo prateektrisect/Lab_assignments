@@ -5,7 +5,8 @@ but not by 12. Also these numbers should lie in the range of 3 and 99 [inclusive
 **Sample Test Case**
 ```
 Input:
-{9,44,100,104}
+4
+9 44 100 104
 
 Output:
 9
@@ -15,7 +16,8 @@ Output:
 **Test Case 1**
 ```
 Input:
-{1,5,15,20,27,72,75,150,400} 
+9
+1 5 15 20 27 72 75 150 400 
 
 Output:
 15
@@ -26,7 +28,8 @@ Output:
 **Test Case 2**
 ```
 Input:
-{3,12,24}
+3
+3 12 24
 
 Output:
 3
