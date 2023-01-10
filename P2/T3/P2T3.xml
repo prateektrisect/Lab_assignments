@@ -8,4 +8,8 @@
         <input>4</input>
         <output>354</output>
     </testcase>
+    <testcase>
+        <input>5</input>
+        <output>979</output>
+    </testcase>
 </testcases>
