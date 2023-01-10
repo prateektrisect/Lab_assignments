@@ -8,14 +8,15 @@
     <testcase>
         <input>5</input>
         <output>5 
+        5
         54 
         543 
-        5432 
+        5432
         54321</output>
         <input>4</input>
         <output>4 
+        4
         43
-        432 
-        4321 
-        54321</output>
+        432
+        4321</output>
 </testcases>
