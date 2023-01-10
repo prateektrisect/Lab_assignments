@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>  
-<testcases>  
+<testcases>
+     <testcase>
+        <input>n = 3</input>
+        <output>
+          3
+          32
+          321
+        </output>
+    </testcase>
     <testcase>
         <input>n = 2</input>
         <output>
