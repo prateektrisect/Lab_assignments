@@ -2,32 +2,26 @@
 <testcases>  
     <testcase>
         <input>"hello"</input>
-        <output>
-             o#
-             ol##
-             oll###
-             olle####
-             olleh#####
-        </output>
+        <output>o#
+                ol##
+                oll###
+                olle####
+                olleh#####</output>
     </testcase>
     <testcase>
         <input>"trisect"</input>
-        <output>
-              t#
-              tc##
-              tce###
-              tces####
-              tcesi#####
-              tcesir######
-              tcesirt#######
-          </output>  
+        <output>t#
+                tc##
+                tce###
+                tces####
+                tcesi#####
+                tcesir######
+                tcesirt#######</output>  
     </testcase>
 </testcases>
         <input>"tina"</input>
-        <output>
-             t#
-             ti##
-             tin###
-             tina####
-</output>
+        <output>t#
+              ti##
+              tin###
+              tina####</output>
        
