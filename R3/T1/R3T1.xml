@@ -2,20 +2,14 @@
 <testcases>  
     <testcase>
         <input>ab34</input>
-        <output>
-             xyy##
-        </output>
+        <output>xyy##</output>
     </testcase>
     <testcase>
         <input>Bad</input>
-        <output>
-               #x#
-          </output>  
+        <output>#x#</output>  
     </testcase>
   <testcase>
         <input>bAt$5</input>
-        <output>
-               yy####
-          </output>  
+        <output>yy####</output>  
     </testcase>
 </testcases>
