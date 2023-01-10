@@ -12,4 +12,10 @@
               code#edoc
           </output>  
     </testcase>
+    <testcase>
+        <input>great</input>
+        <output>
+              great#taerg
+          </output>  
+    </testcase>
 </testcases>
