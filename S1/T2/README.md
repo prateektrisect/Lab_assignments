@@ -3,7 +3,7 @@ Use square function from Task T1 to print square of 11, 17 and 23.
 
 **Sample Test Case**
 ```
-Input:
+Input: 11,17,23
 
 
 Output:
@@ -12,6 +12,27 @@ Output:
 529
 ```
 
+## Other Test cases
+**Test Case 1**
+```
+Input:
+10,20,30
+
+Output:
+100
+400
+900
+```
+**Test Case 2**
+```
+Input:
+1,2,3
+
+Output:
+1
+4
+9
+```
 
 ## How to attempt?
 For the given task the solution is already provided. Refer the steps below to execute your second code.
@@ -24,3 +45,5 @@ For the given problem the system will provide user inputs directly. You don't ne
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
+
+### View All Hidden Test Cases: Click Here
