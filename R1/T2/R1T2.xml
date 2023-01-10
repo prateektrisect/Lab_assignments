@@ -2,35 +2,28 @@
 <testcases>  
     <testcase>
         <input>1 0 0 22 </input>
-        <output>
-                New array size:2
+        <output>New array size:2
                          1
-                         22
-        </output>
+                         22</output>
     </testcase>
     <testcase>
         <input>2 5</input>
-        <output>
-                New array size:2
+        <output>New array size:2
                              2
-                             5
-          </output>  
+                             5</output>  
     </testcase>
      <testcase>
         <input>12 10 100 0 19 0</input>
-        <output>
-                New array size:4
+        <output>New array size:4
                         12
                         10
                         100
-                        19
-          </output>  
+                        19</output>  
     </testcase>
   <testcase>
         <input>0 0 0</input>
         <output>
-                New array size:0
-          </output>  
+                New array size:0</output>  
     </testcase>
 </testcases>
 
