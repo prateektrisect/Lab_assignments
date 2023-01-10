@@ -2,22 +2,16 @@
 <testcases>
     <testcase>
         <input>n = 5</input>
-        <output>
-            #10#8#6#4#2
-          </output>  
+        <output>#10#8#6#4#2</output>  
     </testcase>
     <testcase>
         <input>n = 2</input>
-        <output>
-              #4#2
-        </output>
+        <output>#4#2</output>
     </testcase>
     
    <testcase>
         <input>n = 3</input>
-        <output>
-            #6#4#2
-          </output>  
+        <output>#6#4#2</output>  
     </testcase>
 </testcases>
 
