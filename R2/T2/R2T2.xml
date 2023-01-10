@@ -2,16 +2,13 @@
 <testcases>  
     <testcase>
         <input>{1,7,8,9,2}</input>
-        <output>Size=3
-        </output>1#7#9#
+        <output>Size=3</output>1#7#9#
     </testcase>
     <testcase>
         <input>{2,4}</input>
-        <output>Size=0
-        </output>
+        <output>Size=0</output>
         <testcase>
         <input>29 44 32 11</input>
-        <output>Size=2
-        </output>29#11#
+        <output>Size=2</output>29#11#
     </testcase>
 </testcases>
