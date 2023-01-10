@@ -17,6 +17,16 @@
           90
         </output>
     </testcase>
+    <testcase>
+        <input>{1,5,8,4,7,11}</input>
+        <output>
+          10
+          50
+          80
+          40
+          70
+          110</output>
+    </testcase>
 </testcases>
 
 
