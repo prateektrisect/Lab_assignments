@@ -1,5 +1,5 @@
 ## Problem Statement
-Create a function named isMultipleOf3 that takes an integer n as input and print 
+Create a function named is Multiple Of 3 that takes an integer n as input and print 
 whether n is a multiple of 3 or not.
 
 
@@ -18,7 +18,15 @@ Input:
 7
 
 Output:
-7:Yes
+7:No
+```
+**Test Case 2**
+```
+Input:
+9
+
+Output:
+9:Yes
 ```
 
 
@@ -33,3 +41,6 @@ For the given problem the system will provide user inputs directly. You don't ne
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
+
+
+### View All Hidden Test Cases: Click Here
