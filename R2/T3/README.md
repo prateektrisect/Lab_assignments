@@ -6,7 +6,8 @@ by 2. Also these numbers should lie in the range of 3 and 99 [inclusive].
 **Sample Test Case**
 ```
 Input:
-{9,99,999,9999}
+4
+9 99 999 9999
 
 Output:
 9
@@ -16,7 +17,8 @@ Output:
 **Test Case 1**
 ```
 Input:
-{1,5,15,18,26,72,75,81} 
+8
+1 5 15 18 26 72 75 81 
 
 Output:
 15
@@ -26,7 +28,8 @@ Output:
 **Test Case 2**
 ```
 Input:
-{4,8,12} 
+ 3
+ 4 8 12 
 
 Output:
 
