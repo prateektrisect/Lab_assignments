@@ -9,4 +9,14 @@
         </output>
     </testcase>
 </testcases>
-
+        <input>10 20 30</input 
+         <output>
+              100
+              400
+              900
+</testcases>
+         <input>1 2 3</input
+          <output>
+               1
+               4
+               9
