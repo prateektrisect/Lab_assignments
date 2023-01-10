@@ -19,6 +19,16 @@ Output:
 #t#c#e#s#i#r#t#trisect
 ```
 
+**Test Case 2**
+```
+Input:
+ironman
+
+Output:
+#i#r#o#n#m#a#n#ironman
+```
+
+
 
 ## How to attempt?
 For the given task the solution is already provided. Refer the steps below to execute your second code.
@@ -31,3 +41,6 @@ For the given problem the system will provide user inputs directly. You don't ne
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
+
+
+### View All Hidden Test Cases: Click Here
