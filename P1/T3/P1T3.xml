@@ -11,5 +11,13 @@
         2
         3</output>
     </testcase>
+     <testcase>
+        <input>5</input>
+        <output>1
+        2
+        3
+        4
+        5</output>
+    </testcase>
 </testcases>
 
