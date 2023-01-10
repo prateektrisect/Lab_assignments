@@ -12,4 +12,10 @@
         543 
         5432 
         54321</output>
+        <input>4</input>
+        <output>4 
+        43
+        432 
+        4321 
+        54321</output>
 </testcases>
