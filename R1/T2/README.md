@@ -6,7 +6,8 @@ Print this new array along with its size.
 **Sample Test Case**
 ```
 Input:
-{1,0,0,22} 
+4
+1 0 0 22 
 
 Output:
 New array size:2
@@ -17,7 +18,7 @@ New array size:2
 **Test Case 1**
 ```
 Input:
-{2,5} 
+2 5 
 
 Output:
 New array size:2
@@ -27,7 +28,8 @@ New array size:2
 **Test Case 2**
 ```
 Input:
-{12,10,100,0,19,0}
+6
+12 10 100 0 19 0
 
 Output:
 New array size:4
@@ -39,7 +41,8 @@ New array size:4
 **Test Case 3**
 ```
 Input:
-{0,0,0}
+3
+0 0 0
 
 Output:
 New array size:0
