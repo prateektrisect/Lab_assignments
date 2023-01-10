@@ -16,5 +16,13 @@
               **9
           </output>  
     </testcase>
+      <testcase>
+        <input>car</input>
+        <output>
+              *c
+              **a
+               ***r
+          </output>  
+    </testcase>
 </testcases>
 
