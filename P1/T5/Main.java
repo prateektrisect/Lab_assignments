@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Main{
 
   void solution(int n) {
@@ -6,10 +7,10 @@ public class Main{
     // values to variable n, you don't 
     // need to assign any values to them
     
-    // Write your code here
+    // write your code here
     
 
-    System.out.println();  // calculate and print cube
+    System.out.println();  // print final sum of cubes 
   }
 
   //Test code
