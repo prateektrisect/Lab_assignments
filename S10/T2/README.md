@@ -6,27 +6,29 @@ the array. The output can be printed in any order
 **Sample Test Case**
 ```
 Input:
-{1,3,5,7,9,4,7,11,9}
+9
+1 3 5 7 9 4 7 11 9
 
 Output:
-1,3,5,7,9,4,11
+[1,3,5,7,9,4,11]
 ```
 ## Other Test cases
 **Test Case 1**
 ```
 Input:
-{10,20,30,40,50}
+5
+10 20 30 40 50
 
 Output:
-10,20,30,40,50
+[10,20,30,40,50]
 ```
 **Test Case 2**
 ```
 Input:
-{9,9,9,9,1,2,3,9}
+9 9 9 9 1 2 3 9
 
 Output:
-9,1,2,3
+[9,1,2,3]
 ```
 
 
@@ -42,3 +44,5 @@ For the given problem the system will provide user inputs directly. You don't ne
 3. Refer the solution code given below and make necessary changes to your code
 4. Hit **Submit** button
 5. If you followed the steps then your code will pass test cases
+
+### View All Hidden Test Case: Click Here
