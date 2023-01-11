@@ -1,6 +1,6 @@
 # Sum of Two Numbers - 1
 
-Write a code to print sum of two numbers. One of the number is 10 and the other is 20.
+Write a code to print sum of two numbers. One of the number is 10 and the other is 20. 
 
 **Sample Test Case**
 ```
