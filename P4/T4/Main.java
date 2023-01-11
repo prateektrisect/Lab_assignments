@@ -15,7 +15,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    int num = sc.nextInt();
-    test.solution(num);
+    int n = sc.nextInt();
+    test.solution(n);
   }
 }
