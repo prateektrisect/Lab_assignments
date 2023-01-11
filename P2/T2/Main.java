@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main{
 
   void solution(int a) {
+  
     // Write your code here
     // Remember the output should match exactly
     // Write print statement outside of loop ("Start")
