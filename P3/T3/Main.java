@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
 public class Main{
 
   void solution() {
+  
     // Write your code here
     // Use For loop to make pattern
 
