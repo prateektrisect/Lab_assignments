@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Main{
 
   void solution(int n) {
@@ -9,7 +10,7 @@ public class Main{
     // Write your code here
    
     }
-  }
+  
 
   //Test code
   //Don't change anything below this line
