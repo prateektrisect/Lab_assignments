@@ -2,9 +2,10 @@ import java.util.Scanner;
 public class Main{
 
   void solution() {
-    // Write your code here
     int a = 10;
     int b = 20;
+    
+    // Write your code here
     int sum = ;            //should be int sum = a + b;
     System.out.println();  //print sum
   }
