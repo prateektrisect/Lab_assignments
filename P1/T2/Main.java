@@ -2,10 +2,7 @@ import java.util.Scanner;
 public class Main{
 
   void solution(int a, int b) {
-
-    // Here testing system will provide
-    // values to variable a and b, you don't 
-    // need to assign any values to them
+    // no need to assign any values of a and b.
     
     // Write your code here
     int sum = ;            //should be int sum = a + b;
