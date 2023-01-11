@@ -1,12 +1,13 @@
 import java.util.*;
 import java.util.Scanner;
-public class Main{
 
+public class Main{
   void solution(int[] array, int [] aaray1) {
       
     // Write code here
-   
-//     print new array here
+    
+    
+// print new array here
         System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
    
     
