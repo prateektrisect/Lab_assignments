@@ -1,6 +1,7 @@
 public class Main{
 
-  void solution() {
+  void solution() {  // Pass value in Function
+  
     // Write your code here
     // Remember the output should match exactly
     // Use if else 
@@ -14,6 +15,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int n= sc.nextInt();
+    test.solution(n);
   }
 }
