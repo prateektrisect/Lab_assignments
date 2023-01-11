@@ -15,7 +15,6 @@ public class Main{
       
         System.out.println();  //print pattern here in format given
     }
-  }
 
   //Test code
   //Don't change anything below this line
