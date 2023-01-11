@@ -1,8 +1,8 @@
-import java.io.*;
-
+import java.util.Scanner;
 public class Main{
 
   void solution() {
+  
     // Remember the output should match exactly
     // Use for loop
     // Write your code here
@@ -14,6 +14,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    int n = sc.nextInt();
+    test.solution(n);
   }
 }
