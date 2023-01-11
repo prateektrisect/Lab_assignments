@@ -1,10 +1,9 @@
 # Sum of Two Numbers - 2
-
-## Problem Statement
 Given two integers as input. Print the sum of these integers. 
 
 **Sample Test Case**
 ```
+In the input format, two numbers as an integer where first value is given 10 and second is 20. 
 Input:
 10 20
 
@@ -34,7 +33,7 @@ Output:
 ```
 ---
 ## How to attempt?
-For the given task the solution is already provided. Refer the steps below to execute your second code.
+Refer the steps below to execute your second code.
 
 For the given problem the system will provide user inputs directly. You don't need to write any code to take user input.
 
