@@ -28,3 +28,4 @@ For the given task the solution is already provided. Refer the steps below to ex
 2. You have to print its first 10 multiples in the form of: Prod- i = table.
 
 
+
