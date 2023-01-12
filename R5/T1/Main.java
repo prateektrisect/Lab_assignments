@@ -1,10 +1,9 @@
 import java.util.*;
 import java.util.Scanner;
-
-
 public class Main{
 
-  void solution(int x) {
+  void solution(int n) {
+  
     // Write your code here
     // Remember the output should match exactly
 
