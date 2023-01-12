@@ -4,9 +4,9 @@ public class Main{
 
   void solution(int[] array) {
       
+      
     // Write code here
    
-    
    
   }
 
