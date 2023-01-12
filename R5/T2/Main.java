@@ -4,6 +4,9 @@ public class Main{
 
   void solution(int[] array, int[] array1) {
       
+      int len = array.length;
+      int len2= array.length;
+      
     // Write code here
     // print new array here with this statment
     System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
