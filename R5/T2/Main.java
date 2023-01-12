@@ -8,6 +8,7 @@ public class Main{
       int len2= array.length;
       
     // Write code here
+    // use 2 For loop
     // print new array here with this statment
     System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
    
