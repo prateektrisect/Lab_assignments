@@ -2,13 +2,11 @@ import java.util.*;
 import java.util.Scanner;
 public class Main{
 
-  void solution(int[] array) {
+  void solution(int[] array, int[] array1) {
       
     // Write code here
-   
-    
-//     print new array here
-        System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
+    // print new array here with this statment
+    System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
    
   }
 
@@ -24,6 +22,14 @@ public class Main{
          
         array[i]=sc.nextInt();  
     }  
-    test.solution(array);
+     Scanner ss = new Scanner(System.in);
+    int x = ss.nextInt();
+    int[] array1 = new int[x]; 
+    for(int i=0; i<x; i++)  
+    {  
+         
+        array1[i]=sc.nextInt();  
+    }  
+    test.solution(array,array1);
   }
 }
