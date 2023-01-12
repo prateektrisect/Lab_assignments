@@ -3,12 +3,10 @@ import java.util.Scanner;
 public class Main{
 
   void solution(int[] array) {
-      
+   
+   
     // Write code here
    
-    
-//     print new array here
-        System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
    
   }
 
