@@ -2,12 +2,11 @@ import java.util.*;
 import java.util.Scanner;
 public class Main{
 
-  void solution(int n) {
-  
+  void solution(int[] array) {
+      
       
     // Write code here
-    // print new array here
-    
+    // Print all those numbers from this array that are multiples of 4 and fall in the range of 100 to 200 
    
   }
 
@@ -17,6 +16,12 @@ public class Main{
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    test.solution(int n);
+    int[] array = new int[n]; 
+    for(int i=0; i<n; i++)  
+    {  
+         
+        array[i]=sc.nextInt();  
+    }  
+    test.solution(array);
   }
 }
