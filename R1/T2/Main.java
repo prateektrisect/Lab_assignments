@@ -1,18 +1,20 @@
+import java.util.*;
 import java.util.Scanner;
-public class App{
+public class Main{
 
   void solution(int[] array) {
-    //  write your code here
+      
+      
+    // Write code here
+    System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
     
-     System.out.println(Arrays.toString()) // type name of new array inside Arrays.toString()
-
-    }
+    
   }
 
   //Test code
   //Don't change anything below this line
   public static void main(String[] args){
-    App test = new App();
+    Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     int[] array = new int[n]; 
