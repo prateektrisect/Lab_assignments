@@ -6,8 +6,6 @@ public class Main{
       
     // Write code here
    
-    
-
   }
 
   //Test code
