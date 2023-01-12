@@ -5,8 +5,7 @@ public class Main{
  
     // Write your code here
     // Remember the output should match exactly  
-    // Create a new string in which every occurrence of capital 
-'A' is doubled and small 'a' is tripled
+    // Create a new string with all the lowercase characters
    
   }
 
