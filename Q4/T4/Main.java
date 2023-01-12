@@ -1,11 +1,12 @@
 import java.util.Scanner;
 public class Main{
-
-  void solution() {
+  void solution() {   // pass the value in brackets
+    
+ 
     // Write your code here
-    // Remember the output should match exactly 
-
-
+    // Remember the output should match exactly  
+    
+   
   }
 
   //Test code
@@ -13,7 +14,9 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    test.solution();
+    String str = sc.nextLine();
+    test.solution(str);
   }
 }
+
 
