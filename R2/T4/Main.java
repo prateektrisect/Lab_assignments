@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 public class Main{
 
-  void solution(int[] array) {
+  void solution(String str) {
       
     // Write code here
   
@@ -13,7 +13,7 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    test.solution(n);
+    String str = sc.nextLine();
+    test.solution(str);
   }
 }
