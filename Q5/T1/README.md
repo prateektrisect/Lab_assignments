@@ -6,7 +6,7 @@ by 10. Print this new array
 **Sample Test Case**
 ```
 Input:
-{1,3,4,7}
+[1, 3, 4, 7]
 
 
 Output:
@@ -19,7 +19,7 @@ Output:
 **Test Case 1**
 ```
 Input:
-{10,5,9}
+[10, 5, 9]
 
 
 Output:
