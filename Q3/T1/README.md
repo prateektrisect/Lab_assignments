@@ -35,7 +35,7 @@ Input:
 "#C#O#D#E#"
 
 Output:
-New String= CODE
+New String=CODE
 ```
 **Test Case 4**
 ```
