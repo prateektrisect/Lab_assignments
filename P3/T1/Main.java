@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main{
 
-  void solution(n) { 
+  void solution(int n) { 
   
     // Write your code here
     // Remember the output should match exactly
