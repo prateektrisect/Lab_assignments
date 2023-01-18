@@ -1,9 +1,8 @@
 import java.util.Scanner;
 public class Main{
-  void solution() {   // pass the value in brackets
-    
- 
+  void solution(String st) {  
     // Write your code here
+    // you don't need to assign any value to st string     
     // Remember the output should match exactly  
    
   }
