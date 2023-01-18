@@ -1,12 +1,11 @@
+import java.util.Scanner;
 public class Main{
 
-  void solution() {  // Pass value in Function
+  void solution(n) { 
   
     // Write your code here
     // Remember the output should match exactly
-    // Use if else 
-    // Print 'Trisect' if n is odd. Print 'Institute' otherwise
-
+    // Use if else to solve the problem
 
   }
 
