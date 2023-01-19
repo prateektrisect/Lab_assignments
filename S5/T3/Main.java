@@ -9,9 +9,9 @@ public class Main{
 	 
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    byte n = sc.nextByte();
+    String s=sc.nextLine();
     Scanner sc1 = new Scanner(System.in);
-    String s=sc1.nextLine();
+    byte n = sc1.nextByte();
     
    //Call the Function with object.
   //test.function_name()  using format.
