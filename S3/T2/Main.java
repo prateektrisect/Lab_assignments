@@ -5,20 +5,30 @@ import java.util.Scanner;
 public class Main{
   
   public static void main(String[] args){
-  //create the object of the main class
-    Main test = new Main();
+    Main test = new Main();		//created an object of the main class
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     Scanner sc1 = new Scanner(System.in);
     int [] array1=new int[n];
-    for(int i=0;i<n;i++)
-    {
-	    array1[i]=sc1.nextInt();
+    for(int i=0;i<n;i++){
+	 array1[i]=sc1.nextInt();
     }
-   //Call the Function with object.
-  //test.function_name()  using format.
+   //Call the Function here
+
   }
 
-  //create the function and write code here.
+// Given function
+void evenOdd(int ele){
+  if(n%2==0){
+    System.out.println(ele + ":even");
+  }
+  else{    
+	  System.out.println(ele + ":odd");
+  }
+	
+  //write code here
+  //create the function.
+	
+	
 }
 
