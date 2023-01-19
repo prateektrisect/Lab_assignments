@@ -1,18 +1,14 @@
 import java.util.*;
-import java.util.Scanner;
-
 
 public class Main{
-	public static void main(String[] args)
- 	{
+	public static void main(String[] args){
  	int[] arr = {1,7,9,12};
 
  	//write code here
 
  	}
 
- 	public void square(int n)
- 	{
+ 	public void square(int n){
  	int squareN = n * n;
  	System.out.println(squareN);
  	}
