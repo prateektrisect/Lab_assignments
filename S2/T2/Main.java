@@ -6,22 +6,20 @@ public class Main{
 
   //Test code
   public static void main(String[] args){
-    Main test = new Main();
+    Main test = new Main();       //  create an object of Main class here
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     int[] array1=new int[n];
     Scanner sc1 = new Scanner(System.in);
-    for(int i=0;i<n;i++)
-    {
+    for(int i=0;i<n;i++){
       array1[i]=sc1.nextInt();
     }
     
-//  create an object of Main class here
-// call your function  
+    // Write here to call your function  
   }
   
   
-//   Create your function here
+    // Write here to create your function here
   
   
   
