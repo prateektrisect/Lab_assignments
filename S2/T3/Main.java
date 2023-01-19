@@ -6,16 +6,16 @@ public class Main{
 
   //Test code
   public static void main(String[] args){
-    Main test = new Main();
+    Main test = new Main();   //  created an object of Main class here
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     
-//  create an object of Main class here
-// call your function  
+
+    //Write here to call your function  
   }
   
   
-//   Create your function here
+    // Write here to Create your function here
   
   
   
