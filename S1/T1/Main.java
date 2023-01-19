@@ -5,17 +5,12 @@ import java.util.Scanner;
 public class Main{
   
   public static void main(String[] args){
-  //created object of the main class
-    Main test = new Main();
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    
-   //Call the Function with object.
-  //test.function_name()  using format.
   
-  
+    Main test = new Main(); //created object of the main class
+    test.square(13);        //Call the Function with object
   }
+  
   // write code here
-  // to create function
+  // copy function here and run it
 }
 
