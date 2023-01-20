@@ -1,31 +1,32 @@
-
 import java.util.*;
 import java.util.Scanner;
+
+
 public class Main{
-
-  void solution(ArrayList<Integer> arrli) {
-      
-    // Write code here
-    // Create new array list named it as narlist
-    
-    
-    System.out.println(); //print arraylist using toString() like: narlist.toString()
-  }
-
-  //Test code
-  //Don't change anything below this line
+  
   public static void main(String[] args){
+  //create the object of the main class
     Main test = new Main();
-    ArrayList<Integer> arrli = new ArrayList<>();
     Scanner sc = new Scanner(System.in);
-    
     int n = sc.nextInt();
-    int[] array = new int[n]; 
-    
-    for(int i=0; i<n; i++)  
-    {  arrli.add(sc.nextInt());  
-    }  
-    test.solution(arrli);
+    Scanner sc1 = new Scanner(System.in);
+    int[] array1=new int[n];
+    for(int i=0;i<n;i++)
+    {
+	    array1[i]=sc1.nextInt();
+    }
+    Scanner sc2 = new Scanner(System.in);
+    int n1 = sc2.nextInt();
+    Scanner sc3 = new Scanner(System.in);
+    int[] array2=new int[n1];
+    for(int i=0;i<n1;i++)
+    {
+	    array1[i]=sc3.nextInt();
+    }
+   //Call the Function with object.
+  //test.function_name()  using format.
   }
+
+  //create the function and write code here.
 }
 
