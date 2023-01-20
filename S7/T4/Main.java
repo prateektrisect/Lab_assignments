@@ -1,25 +1,20 @@
 import java.util.*;
 import java.util.Scanner;
 
+
 public class Main{
-
-  void solution(String str, String n) {
-    // Write your code here
-    // Remember the output should match exactly
   
+  public static void main(String[] args){
+  //create the object of the main class
+    Main test = new Main();
+    Scanner sc = new Scanner(System.in);
+    String n = sc.nextLine();
+    Scanner sc1 = new Scanner(System.in);
+    String ch = sc1.nextLine();
+   //Call the Function with object.
+  //test.function_name()  using format.
   }
 
-  //Test code
-  //Don't change anything below this line
-  public static void main(String[] args){
-    Main test = new Main();
-    
-    Scanner sc = new Scanner(System.in);
-    String str = sc.nextLine();
-    
-     Scanner ss = new Scanner(System.in);
-    String n = ss.nextLine();
-    
-    test.solution(str,n);
-  }
+  //create the function and write code here.
 }
+
