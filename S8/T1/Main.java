@@ -3,24 +3,19 @@ import java.util.Scanner;
 
 
 public class Main{
-
-  void solution(int n ,int x) {
-    // Write your code here
-    // Remember the output should match exactly
-
-  }
-
-  //Test code
-  //Don't change anything below this line
+  
   public static void main(String[] args){
+  //create the object of the main class
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    
-     Scanner ss = new Scanner(System.in);
-    int x = ss.nextInt();
-    
-    test.solution(n,x);
+    Scanner sc1 = new Scanner(System.in);
+    int n1 = sc1.nextInt();
+
+   //Call the Function with object.
+  //test.function_name()  using format.
   }
+
+  //create the function and write code here.
 }
 
