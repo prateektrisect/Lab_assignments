@@ -8,11 +8,13 @@ public class Main{
   //create the object of the main class
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    String n = sc.nextLine();
+    String st = sc.nextLine();
    //Call the Function with object.
-  //test.function_name()  using format.
+  //test.function_name(st)  using format.
+  
   }
 
-  //create the function and write code here.
+  // write code here
+  //to create the function
 }
 
