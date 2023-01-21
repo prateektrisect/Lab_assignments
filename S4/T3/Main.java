@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main{
   
   public static void main(String[] args){
-  //create the object of the main class
+  //created an object of the main class
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
