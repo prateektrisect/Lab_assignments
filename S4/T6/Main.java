@@ -8,7 +8,7 @@ public class Main{
   //create the object of the main class
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    String n = sc.nextLine();
+    String nst = sc.nextLine();
    //Call the Function with object.
   //test.function_name()  using format.
   }
