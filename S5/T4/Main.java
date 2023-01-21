@@ -9,24 +9,22 @@ public class Main{
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    Scanner sc1 = new Scanner(System.in);
     int [] array1=new int[n];
     for(int i=0;i<n;i++)
-    {
-	    array1[i]=sc1.nextInt();
+    {array1[i]=sc.nextInt();
     }
-  Scanner sc3 = new Scanner(System.in);
-    int n1 = sc3.nextInt();
-    Scanner sc4 = new Scanner(System.in);
+    int n1 = sc.nextInt();
     int [] array2=new int[n1];
     for(int i=0;i<n;i++)
-    {
-	    array2[i]=sc4.nextInt();
+    {array2[i]=sc.nextInt();
     }
+    
    //Call the Function with object.
-  //test.function_name()  using format.
+  //test.function_name(array1, array2)  using format.
+  
   }
 
-  //create the function and write code here.
+   // write code here
+  // to create the function 
 }
 
