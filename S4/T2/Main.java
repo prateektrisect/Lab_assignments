@@ -20,7 +20,7 @@ public class Main{
   }
 	
 # Given function	
-void MultipleOf3(ele){
+void MultipleOf3(int ele){
   if(ele%3==0{
     System.out.println(ele + ":Yes")
 	  }
