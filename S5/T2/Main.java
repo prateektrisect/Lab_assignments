@@ -19,6 +19,17 @@ public class Main{
   //test.function_name()  using format.
   }
 
+//Given function
+String countLowerCase(String m):
+  int count = 0;
+  for(int i = 0; i< m.length(); i++){
+    if(m.charAt(i)>='a' and m.charAt(i)<='z'){
+      {count = count + 1;
+      }
+  return ("LowerCase=" + count);
+  
+
+  // Write code here 
   //create the function and write code here.
 }
 
