@@ -5,18 +5,18 @@ import java.util.Scanner;
 public class Main{
   
   public static void main(String[] args){
-  //create the object of the main class
-	 
+  //create the object of the main class	 
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     String s=sc.nextLine();
     Scanner sc1 = new Scanner(System.in);
-    byte n = sc1.nextByte();
+    int n = sc1.nextInt();
     
-   //Call the Function with object.
-  //test.function_name()  using format.
+   //Calling the Function 
+    test.encode(s, n);
   }
 
-  //create the function and write code here.
+  // write code here
+  //to create the function
 }
 
