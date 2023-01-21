@@ -19,6 +19,18 @@ public class Main{
   //test.function_name()  using format.
   }
 
+
+# Given function
+void grades(int marks){
+  if(marks>=90){System.out.println("Grade A");
+    }
+  else if(marks>=75){System.out.println("Grade B");
+    }
+  else if((marks>=40){System.out.println("Grade C");
+  }
+  else{System.out.println("Fail");
+    }
+    }
   //create the function and write code here.
 }
 
