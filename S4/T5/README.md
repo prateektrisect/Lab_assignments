@@ -1,6 +1,6 @@
 ## Problem Statement
 Given an integer array as input that represents marks of a student in 5 subjects. Use 
-grades function from Task 3.1 that prints marks of student in each subject
+grades function that prints marks of student in each subject
 
 **Sample Test Case**
 ```
