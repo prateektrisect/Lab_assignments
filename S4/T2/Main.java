@@ -16,9 +16,19 @@ public class Main{
 	    array1[i]=sc1.nextInt();
     }
    //Call the Function with object.
-  //test.function_name()  using format.
+  //test.function_name(array)  using format.
   }
-
+	
+# Given function	
+void MultipleOf3(ele){
+  if(ele%3==0{
+    System.out.println(ele + ":Yes")
+	  }
+  else{
+    System.out.println(ele + ":No")
+	  }
+     }
+	
   //create the function and write code here.
 }
 
