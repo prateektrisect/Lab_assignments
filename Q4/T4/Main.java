@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main{
-  void solution() {   // pass the value in brackets
+  void solution(String st1) {   // pass String st1 and no need to give input to st1
     
  
     // Write your code here
