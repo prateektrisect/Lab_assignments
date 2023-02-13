@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main{
-  void solution(String str) {   // pass String st1 and no need to give input to str
+  void solution(String str) {   // pass String str and no need to give input to str
     
  
     // Write your code here
