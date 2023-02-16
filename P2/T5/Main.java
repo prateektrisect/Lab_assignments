@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main{
 
-  void solution(int n) {
+  void solution() {
 
     // Here testing system will provide
     // values to variable n, you don't 
@@ -16,8 +16,6 @@ public class Main{
   //Don't change anything below this line
   public static void main(String[] args){
     Main test = new Main();
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    test.solution(n);
+    test.solution();
   }
 }
