@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main{
 
-  void solution(int n1, int n2) {
+  void solution(int x, int y) {
     // Write your code here
     // Remember the output should match exactly
 
