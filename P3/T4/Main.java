@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main{
 
-  void solution() {
+  void solution(n) {
     // Write your code here
     // Remember the output should match exactly
 
