@@ -16,7 +16,7 @@ c#r
 **Test Case 1**
 ```
 Input:
-"trisecy"
+"trisect"
 
 Output:t
 t#
