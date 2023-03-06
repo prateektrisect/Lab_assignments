@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Main{
 
+  
+  
+  
+    // Create your function here
+  
+  
+  
   //Test code
   public static void main(String[] args){
     Main test = new Main();   //  created object of Main class here
@@ -12,11 +19,5 @@ public class Main{
     
     // call your function  here
   }
-  
-  
-    // Create your function here
-  
-  
-  
 }
 
