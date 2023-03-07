@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class Main{
   
+  
+
+  // write code here
+  //to create the function
+  
+//   test code
   public static void main(String[] args){
   //create the object of the main class	 
     Main test = new Main();
@@ -15,8 +21,5 @@ public class Main{
    //Calling the Function 
     test.encode(s, n);
   }
-
-  // write code here
-  //to create the function
 }
 
