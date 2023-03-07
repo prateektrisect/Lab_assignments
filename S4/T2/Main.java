@@ -4,6 +4,21 @@ import java.util.Scanner;
 
 public class Main{
   
+	
+# Given function	
+void MultipleOf3(int ele){
+  if(ele%3==0{
+    System.out.println(ele + ":Yes")
+	  }
+  else{
+    System.out.println(ele + ":No")
+	  }
+     }
+	
+  //create the function and write code here.
+     
+     
+//      test code
   public static void main(String[] args){
   //create the object of the main class
     Main test = new Main();
@@ -18,17 +33,5 @@ public class Main{
    //Call the Function with object.
   //test.function_name(array)  using format.
   }
-	
-# Given function	
-void MultipleOf3(int ele){
-  if(ele%3==0{
-    System.out.println(ele + ":Yes")
-	  }
-  else{
-    System.out.println(ele + ":No")
-	  }
-     }
-	
-  //create the function and write code here.
 }
 
