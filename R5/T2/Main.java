@@ -27,8 +27,7 @@ public class Main{
          
         array[i]=sc.nextInt();  
     }  
-     Scanner ss = new Scanner(System.in);
-    int x = ss.nextInt();
+    int x = sc.nextInt();
     int[] array1 = new int[x]; 
     for(int i=0; i<x; i++)  
     {  
