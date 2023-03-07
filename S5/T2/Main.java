@@ -4,6 +4,22 @@ import java.util.Scanner;
 
 public class Main{
   
+	
+//Given function
+String countLowerCase(String m):
+  int count = 0;
+  for(int i = 0; i< m.length(); i++){
+    if(m.charAt(i)>='a' and m.charAt(i)<='z'){
+      {count = count + 1;
+      }
+  return ("LowerCase=" + count);
+  
+
+  // Write code here 
+  //create the function and write code here.
+	    
+	    
+//   test code	    
   public static void main(String[] args){
   //create the object of the main class
     Main test = new Main();
@@ -19,17 +35,5 @@ public class Main{
   //test.function_name()  using format.
   }
 
-//Given function
-String countLowerCase(String m):
-  int count = 0;
-  for(int i = 0; i< m.length(); i++){
-    if(m.charAt(i)>='a' and m.charAt(i)<='z'){
-      {count = count + 1;
-      }
-  return ("LowerCase=" + count);
-  
-
-  // Write code here 
-  //create the function and write code here.
 }
 
