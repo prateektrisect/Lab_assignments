@@ -7,7 +7,7 @@ public class Main{
       
       
     // Write code here
-    System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
+    System.out.println(Arrays.toString()); // type name of new array inside Arrays.toString()
     
     
   }
