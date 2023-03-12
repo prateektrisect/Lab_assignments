@@ -23,7 +23,7 @@ t#
 t#i
 t#i#
 t#i#e
-t#i#e#
+t#i#e#t
 ```
 
 
