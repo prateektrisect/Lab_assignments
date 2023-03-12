@@ -6,8 +6,6 @@ public class Main{
   void solution(int[] array) {
       
      int len = array.length;
-     int[] newarray = new int[len];
-
     for(int i = 0; i < len; i++) { 
     
     
@@ -16,7 +14,7 @@ public class Main{
       // Print the number which is nearest to 1000.
       
     }
-    System.out.println(Arrays.toString(); // type name of new array inside Arrays.toString()
+    System.out.println(); // print max value here
    
   }
 
