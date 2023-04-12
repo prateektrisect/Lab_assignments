@@ -4,37 +4,37 @@ import java.util.Scanner;
 
 public class Main{
 	
+	// Write code here
+  	//create the function here.
+  
 	
 # Given function
-void drinks(ele){
+public static String drinks(ele){
   if((ele%2==0) && (ele%3!=0)){
-    System.out.println("Pepsi");
+    return "Pepsi";
     }
   else if((ele%2!=0) && (ele%3==0)){
-    System.out.println("Coke");
+    return "Coke";
     }
   else if((ele%2==0) && (ele%3==0)){
-     System.out.println("PepsiCoke");
+     return "PepsiCoke";
      }
-    else(ele%2==0){
-     System.out.println("Pepsi");
+  else(ele%2==0){
+	return "Pepsi";
      }
  }
 	
 	
- // Write code here
-  //create the function here.
-  
 //   Test code
  public static void main(String[] args){
     Main test = new Main();	//created an object of the main class
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    Scanner sc1 = new Scanner(System.in);
+   
     int [] array1=new int[n];
     for(int i=0;i<n;i++)
     {
-	    array1[i]=sc1.nextInt();
+	    array1[i]=sc.nextInt();
     }
    //Call the Function with object.
   
