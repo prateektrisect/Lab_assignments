@@ -5,18 +5,22 @@ import java.util.Scanner;
 public class Main{
   
 	
-	
-// Given function
-void evenOdd(int ele){
-  if(n%2==0){
-    System.out.println(ele + ":even");
-  }
-  else{    
-	  System.out.println(ele + ":odd");
-  }
-	
   //write code here
   //create the function.
+	
+	
+	
+	
+	
+// Given function
+public static String evenOdd(int ele){
+  if(ele%2==0){
+    return ele + ":even";
+  }
+  else{    
+	  
+    return ele + ":odd";
+  }
 	
 // Test code
   public static void main(String[] args){
@@ -28,7 +32,7 @@ void evenOdd(int ele){
     for(int i=0;i<n;i++){
 	 array1[i]=sc.nextInt();
     }
-   //Call the Function here
+   //Write here to Call the Function
 
   }
 
