@@ -8,7 +8,7 @@ public class Main{
   	//create the function here.
   
 	
-# Given function
+// Given function
 public static String drinks(ele){
   if((ele%2==0) && (ele%3!=0)){
     return "Pepsi";
