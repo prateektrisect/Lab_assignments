@@ -21,7 +21,7 @@ Input:
 25 15
 
 Output:
-50
+40
 ```
 **Test Case 2**
 ```
