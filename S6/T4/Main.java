@@ -1,12 +1,11 @@
 import java.util.*;
-import java.util.Scanner;
-
-
 public class Main{
-  
-	
-	
+
   //create the function and write code here.
+	
+	
+	
+	
 	
 //   test code	
   public static void main(String[] args){
@@ -21,7 +20,7 @@ public class Main{
     }
    
     int n1 = sc.nextInt();
-    int [] array2=new int[n];
+    int [] array2=new int[n1];
     for(int i=0;i<n1;i++)
     {
 	    array1[i]=sc.nextInt();
