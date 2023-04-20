@@ -25,11 +25,11 @@ void grades(int marks){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    Scanner sc1 = new Scanner(System.in);
+  
     int [] array1=new int[n];
     for(int i=0;i<n;i++)
     {
-	    array1[i]=sc1.nextInt();
+	    array1[i]=sc.nextInt();
     }
    //Call the Function with object.
   //test.function_name()  using format.
