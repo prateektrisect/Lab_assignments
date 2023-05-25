@@ -22,7 +22,7 @@ public class Main{
     int[] array2=new int[n1];
     for(int i=0;i<n1;i++)
     {
-	    array1[i]=sc.nextInt();
+	    array2[i]=sc.nextInt();
     }
    //Call the Function with object.
   //test.function_name()  using format.
